@@ -1,2 +1,2 @@
 # example-repo
-a simple example in here 
+a simple example in here only
